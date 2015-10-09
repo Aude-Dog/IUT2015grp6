@@ -1,6 +1,6 @@
 'use strict';
 
-/* Testt */
+/* bonsoir */
 
 var phonecatApp = angular.module('phonecatApp', [
   'ngRoute',
